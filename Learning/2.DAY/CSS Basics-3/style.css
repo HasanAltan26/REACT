@@ -1,0 +1,38 @@
+input[type="text"],
+input[type="password"] {
+  width: 500px;
+  padding: 10px;
+  border: 1px solid darkgreen;
+  color: white;
+  background-color: black;
+  margin-top:20px ;
+  margin-left: 20px;
+}
+input[type="text"]:focus,
+input[type="password"]:focus {
+  background-color: slateblue;
+  color: black;
+}
+.bruh{
+  width: 600px;
+  margin: auto;
+  margin-top: 30px;
+  color: slateblue;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 3px;
+  text-align: center;
+}
+p1.gates{
+  width: 600px;
+  margin: auto;
+  margin-top: 30px;
+  color: darkblue;
+  background-color: green;
+  border: 1px solid black;
+  border-radius: 3px;
+  text-align: center;
+}
+#textt{
+  background-color: brown ;
+}

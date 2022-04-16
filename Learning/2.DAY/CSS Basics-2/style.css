@@ -1,0 +1,30 @@
+h1 {
+  color: BLACK;
+  background-color: gray;
+  border-radius: 5px;
+  text-align: center;
+}
+bodY {
+  background-color: white;
+}
+div {
+  border: 3px solid black;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+  color: black;
+  background-color: grey;
+}
+
+
+table,
+th,
+td {
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+}
+tr:hover{
+background-color: grey;
+}
