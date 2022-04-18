@@ -1,0 +1,15 @@
+.cardscontrol2{
+    margin-left: 10px;
+   
+}
+.cardscontrol{
+    background-color: black;
+    color: white;
+}
+.cardscontrol:hover{
+    background-color: #032202;
+}
+.listborder{
+    border: 1px solid white;
+    border-radius: 5px;
+}
