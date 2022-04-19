@@ -1,0 +1,35 @@
+
+.cardscontrol{
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+.cardscontrol:hover{
+    background-color: #423d21;
+}
+
+.bgcotrol{
+    background-color: #353326;
+}
+
+.btn-outline-warning1{
+    width: 250px;
+    margin-bottom: 5px;
+}
+.d-flex{
+    margin-left: 52px;
+}
+.navbar {
+    margin-left: 105px;
+    font-size: large;
+}
+.navbar-brand{
+    margin-right: 30px;
+    font-size: larger;
+    
+}
+.foot{
+    color: #b1980c;
+    margin-top: 20px;
+}
